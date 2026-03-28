@@ -97,14 +97,10 @@ The AI will instantly respond with the optimal move.
 MIT License — free to use, modify, and learn from.
 
 ---
-```txt
-```
 
 Smoll code, big brain logic.
 
 ---
 
-```txt
 have fun :3
-```
 
